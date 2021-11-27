@@ -1,0 +1,13 @@
+am,was
+is,was
+are,were
+have,had
+has,had
+shall,should
+will,would
+may,might
+can,could
+do,did
+does,did
+be,been
+being,been

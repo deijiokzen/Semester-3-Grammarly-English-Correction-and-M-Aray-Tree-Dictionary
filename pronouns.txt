@@ -1,0 +1,4 @@
+i, she, he, it,
+they.
+we.
+you.
